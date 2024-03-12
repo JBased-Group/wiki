@@ -1,6 +1,7 @@
 ## Publishing to STEAM Workshop
 
 Open Crowbar, then go to the Publish tab at the top.
+If you don't have crowbar you can easily get it from [here!][https://github.com/ZeqMacaw/Crowbar/releases/download/v0.74/Crowbar_2023-02-16_0.74.7z]
 
 1. Select JBMod in the Game tab, choose your Game Type and Content Type (found on the side).
 2. Add your Title and Description; the Change note doesn't really matter.
